@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-datastorecrud-staging-153723-authRole",
+      "UnauthRoleArn": "arn:aws:iam::043557290926:role/amplify-datastorecrud-staging-153723-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::043557290926:role/amplify-datastorecrud-staging-153723-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-datastorecrud-staging-153723-deployment",
+      "UnauthRoleName": "amplify-datastorecrud-staging-153723-unauthRole",
+      "StackName": "amplify-datastorecrud-staging-153723",
+      "StackId": "arn:aws:cloudformation:us-east-1:043557290926:stack/amplify-datastorecrud-staging-153723/5b06b410-777f-11eb-bf44-1264a8f6165d",
+      "AmplifyAppId": "d29yrphqdik9xy"
+    }
+  }
+}
